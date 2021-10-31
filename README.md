@@ -1,4 +1,4 @@
-# SBER AI Graph Research Hub
+# SBER AI | Graph Research Hub
 
 Welcome to the graph research repo of SBER AI.
 
