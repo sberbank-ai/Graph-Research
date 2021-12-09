@@ -7,4 +7,4 @@ Currently implemented methods:
 
 Our publications:
 
-1. Hybrid Graph Embedding Techniques in Estimated Time of Arrival Task {https://arxiv.org/abs/2110.04228} (accepted at the 10th International Conference on Complex Networks and their Applications)
+1. Hybrid Graph Embedding Techniques in Estimated Time of Arrival Task (https://arxiv.org/abs/2110.04228) - accepted at the 10th International Conference on Complex Networks and their Applications.
